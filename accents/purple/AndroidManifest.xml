@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-package="com.xenonhd.overlay.accent.purple.android"
+package="com.paosp.overlay.accent.purple.android"
     android:versionCode="1"
     android:versionName="1.0">
 
@@ -9,7 +9,7 @@ package="com.xenonhd.overlay.accent.purple.android"
 
     <application
         android:hasCode="false"
-        android:label="@*lineageos.platform:string/accent_xenonhd_purple">
+        android:label="@*lineageos.platform:string/accent_paosp_purple">
 
         <meta-data
             android:name="lineage_berry_accent_preview"
